@@ -32,5 +32,19 @@ The following are the visualized results of our analysis:
 
 ![Microwave System Results](#)
 
+
+### Application Interface
+
+The user interface of FeaMod is intuitive and easy to use, facilitating the management and visualization of feature models. Here's a glimpse of what the FeaMod interface looks like:
+
+![FeaMod Interface](/InterfaceFeaMod.JPG)
+
+In this interface, users can:
+
+- Upload Embedded Source Code files to generate feature model.
+- View the generated feature model in a visually appealing and informative format.
+- Navigate through different features and their relationships easily.
+
+
 ---
 
